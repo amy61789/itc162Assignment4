@@ -127,15 +127,4 @@ implements OnEditorActionListener, OnClickListener {
             break;
         }
     }
-
-    public void onStartTrackingTouch(SeekBar seekBar){
-
-    }
-
-    public void onProgressChanged(SeekBar seekBar, int progress, boolean fromUser){
-        percentTextView.setText(progress + '%');
-    }
-    public void onStopTrackingTouch(SeekBar seekBar){
-
-    }
 }
