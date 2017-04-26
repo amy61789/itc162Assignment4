@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\amy61\Desktop\ch05_ex3_TipCalculator\ch05_ex3_TipCalculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\amy61\Desktop\ch05_ex3_TipCalculator\ch05_ex3_TipCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8d6e8788b9f7c02a1314225c23271e559f5d9b87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\amy61\Desktop\ch05_ex3_TipCalculator\ch05_ex3_TipCalculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="452ef281409dda3567f0b0ae60d60ae46399aa69">
+        <dex dex="C:\Users\amy61\Desktop\ch05_ex3_TipCalculator\ch05_ex3_TipCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_09cbfdf42c8bc30927a155e0f8d51650ad269db7\classes.dex" />
+    </item>
+
+</items>
